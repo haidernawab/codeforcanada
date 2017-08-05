@@ -492,6 +492,19 @@
             "Theme"
           ],
           "_name": "contacts2",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "14px"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts2-6",
           "_params": {
             "paddingTop": 3,
@@ -512,20 +525,7 @@
             }
           },
           "text1": "<strong>Address</strong><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\">PH9</span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\">277 South Park Road</span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\">THornhill, ON<br></span></font><br><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><br>\n<strong>Contacts</strong><br>\nE:: haider.nawab@gmail.com<br>T: 416-819-2717<br>@haidernawab&nbsp;",
-          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Code Sources</b></span></font></p><ul><li><a href=\"code.org\" target=\"_blank\">Code.org</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"index.html\" target=\"_blank\">Code Academy</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"index.html\" target=\"_blank\">Canada Learning Code</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
-          "_styles": {
-            "SPAN": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "14px"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "text2": "<p class=\"mbr-contacts__text\"><font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Code Sources</b></span></font></p><ul><li><a href=\"code.org\" target=\"_blank\">Code.org</a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"index.html\" target=\"_blank\">Code Academy</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><a href=\"index.html\" target=\"_blank\">Canada Learning Code</a><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>"
         },
         {
           "_tags": [
